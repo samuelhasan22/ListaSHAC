@@ -1,0 +1,35 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: MIAMI" tvg-logo="" group-title="24/7",24/7 CSI: MIAMI
+http://5.9.30.198:2086/afsdv/afvr/21
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT 1996" tvg-logo="" group-title="24/7",24/7 DRAGON BALL GT 1996
+http://5.9.30.198:2086/afsdv/afvr/26
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FoX Channel" tvg-logo="" group-title="SERIES",SHAC:FoX Channel
+http://5.9.30.198:2086/afsdv/afvr/295
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Action" tvg-logo="" group-title="CINEMA",SHAC:Fox Premium Action
+http://5.9.30.198:2086/afsdv/afvr/297
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Family Oeste" tvg-logo="" group-title="CINEMA",SHAC:Fox Premium Family Oeste
+http://5.9.30.198:2086/afsdv/afvr/300
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Movies" tvg-logo="" group-title="CINEMA",SHAC:Fox Premium Movies
+http://5.9.30.198:2086/afsdv/afvr/301
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Series Oeste" tvg-logo="" group-title="CINEMA",SHAC:Fox Premium Series Oeste
+http://5.9.30.198:2086/afsdv/afvr/302
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FX" tvg-logo="" group-title="SERIES",SHAC:FX
+http://5.9.30.198:2086/afsdv/afvr/306
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FXM Oeste" tvg-logo="" group-title="SERIES",SHAC:FXM Oeste
+http://5.9.30.198:2086/afsdv/afvr/307
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO + Latinoamerica" tvg-logo="" group-title="CINEMA",SHAC:HBO + Latinoamerica
+http://5.9.30.198:2086/afsdv/afvr/309
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO 2 Latinoamerica" tvg-logo="" group-title="CINEMA",SHAC:HBO 2 Latinoamerica
+http://5.9.30.198:2086/afsdv/afvr/310
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO Family Latinoamerica" tvg-logo="" group-title="CINEMA",SHAC:HBO Family Latinoamerica
+http://5.9.30.198:2086/afsdv/afvr/311
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO LatinoamÃ©rica" tvg-logo="" group-title="CINEMA",SHAC:HBO LatinoamÃ©rica
+http://5.9.30.198:2086/afsdv/afvr/312
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Hbo Xtreme" tvg-logo="" group-title="CINEMA",SHAC:Hbo Xtreme
+http://5.9.30.198:2086/afsdv/afvr/313
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:History LatinoamÃ©rica" tvg-logo="" group-title="MUNDO Y CULTURA",SHAC:History LatinoamÃ©rica
+http://5.9.30.198:2086/afsdv/afvr/315
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net: Investigation Discovery" tvg-logo="" group-title="MUNDO Y CULTURA",SHAC: Investigation Discovery
+http://5.9.30.198:2086/afsdv/afvr/321
