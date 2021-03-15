@@ -19,8 +19,8 @@ https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/sxqgz5ml87d.m3u8?s=t5BNG7zPNoPtwJ
 https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/68m08id8wux077k.m3u8?s=hP5PQRyuQr23fB7jC1sanA&e=1615838363
 #EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:DIRECT TV SPORT
 https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/ukdgfwbpr7c.m3u8?s=fhCXJB4PvUocf_oLAQIQRQ&e=1615838434
-#EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:FOX SPORT 3
-https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/ukdgfwbpr7c.m3u8?s=fhCXJB4PvUocf_oLAQIQRQ&e=1615838434
+#EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:FOX PREMIUM CENTER
+https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/2r0n23tl.m3u8?s=raUN--ekLGR3RFvcvHqPvQ&e=1615839345
 #EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:ESPN 2 MEXICO
 https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/zqssi.m3u8?s=vpCM5zz5JGpYceeGXawObw&e=1615838566
 #EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:BEING LA LIGA 
@@ -29,4 +29,11 @@ https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/zxivdukmf9p6qtw.m3u8?s=t3PkjfBoKL
 https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/7h5xgwhov4eh.m3u8?s=uv-mDkWx9tRsKMpi8Cf6EQ&e=1615838825
 #EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:CARTOON NETWORK
 https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/qu3uh7dppym53.m3u8?s=ULTh34YMWUrTunrB80Erwg&e=1615838885
-
+#EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:FOX PREMIUM ACTION
+https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/pzak9d.m3u8?s=zPkyTWc-XIFu-ctys7F1zQ&e=1615839462
+#EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:ANIMAL PLANET 
+https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/kzeh16f8nu.m3u8?s=bcAdT-BLPJYsd-1FNJtM0A&e=1615839700
+#EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:UNIVISION
+https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/ktyl67ou2.m3u8?s=53bPJU06CbKk4LVXiqCMSA&e=1615839816
+#EXTINF:-1 tvg-id="" tvg-name="SAC:CineLatino" tvg-logo="" group-title="CINEMA",SAC:SONY
+https://cqkq7p36bhke2xxg.ezcdn462.net:8443/hls/2vpooc55opu9.m3u8?s=EgCpRNfGJu2r0Zzg63O9Fw&e=1615839893
