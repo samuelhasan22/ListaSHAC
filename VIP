@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="24/7  KONG VS GODZILLA" tvg-logo="" group-title="24/7",24/7  KONG VS GODZILLA
+https://fastvideos.stream/mfqjxx6ztlo6sr7qw4we5lqz4hobkhwuszbzfbfczsk76x7gozvf5rdrrjzq/v.mp4
 #EXTM3U
 #EXTINF:-1 group-title="Lista xtv36",AE Mundo
 http://45.71.202.210:50000/play/a00x/index.m3u8
