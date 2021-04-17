@@ -1,255 +1,1452 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  CAILLOU
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/3.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/4.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="" group-title="24/7",24/7  CUENTRO GREEM
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/5.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  DRAGON BALL 1984" tvg-logo="" group-title="24/7",24/7  DRAGON BALL 1984
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  SOUTH PARK" tvg-logo="" group-title="24/7",24/7  SOUTH PARK
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/9.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="" group-title="24/7",24/7  THE WALKING DEAD
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/10.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/11.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNY Y SUS AMIGOS" tvg-logo="" group-title="24/7",24/7 BARNY Y SUS AMIGOS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/13.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966 RETRO" tvg-logo="" group-title="24/7",24/7 BATMAN 1966 RETRO
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/14.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/16.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="" group-title="24/7",24/7 BREAKING  BAD
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/17.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/18.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/19.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: MIAMI" tvg-logo="" group-title="24/7",24/7 CSI: MIAMI
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/21.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="" group-title="24/7",24/7 Death note
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/22.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/23.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON  BALL SUPER" tvg-logo="" group-title="24/7",24/7 DRAGON  BALL SUPER
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT 1996" tvg-logo="" group-title="24/7",24/7 DRAGON BALL GT 1996
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/26.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z 1989" tvg-logo="" group-title="24/7",24/7 DRAGON BALL Z 1989
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/27.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El AvispÃ³n Verde" tvg-logo="" group-title="24/7",24/7 El AvispÃ³n Verde
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/28.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/29.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="" group-title="24/7",24/7 EL CHAVO DEL 8
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/30.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/31.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL COYOTE Y CORRE CAMINOS" tvg-logo="" group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/32.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PATON DEL MAL" tvg-logo="" group-title="24/7",24/7 EL PATON DEL MAL
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/33.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL SEÃ‘OR DE LOS CIELOS" tvg-logo="" group-title="24/7",24/7 EL SEÃ‘OR DE LOS CIELOS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/34.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="" group-title="24/7",24/7 FUTURAMA 1999
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/35.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY TREE FRIENDS" tvg-logo="" group-title="24/7",24/7 HAPPY TREE FRIENDS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/36.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/37.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HÃ‰ROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÃ‰ROES EN PIJAMAS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/38.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 JUEGO DE TRONOS" tvg-logo="" group-title="24/7",24/7 JUEGO DE TRONOS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/39.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/40.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA FAMILIA MONSTERS 1964" tvg-logo="" group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/41.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORA PICO" tvg-logo="" group-title="24/7",24/7 LA HORA PICO
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/42.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="" group-title="24/7",24/7 LA PANTERA ROSA
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/44.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA RISA EN VACIONES" tvg-logo="" group-title="24/7",24/7 LA RISA EN VACIONES
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/45.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/46.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LAZY TOWN" tvg-logo="" group-title="24/7",24/7 LAZY TOWN
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/47.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/48.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS LOCOS ADDAMS" tvg-logo="" group-title="24/7",24/7 LOS LOCOS ADDAMS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/49.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS PICA PIEDRAS" tvg-logo="" group-title="24/7",24/7 LOS PICA PIEDRAS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/50.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LUIS MIGUEL LA SERIE 2018" tvg-logo="" group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/51.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/52.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/53.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/55.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="" group-title="24/7",24/7 Peliculas de terror
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/57.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS ESTRENOS 2018
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/58.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="" group-title="24/7",24/7 PEPPA PIG
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/59.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY y CEREBRO" tvg-logo="" group-title="24/7",24/7 PINKY y CEREBRO
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/60.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PokÃ©mon" tvg-logo="" group-title="24/7",24/7 PokÃ©mon
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/61.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGERS" tvg-logo="" group-title="24/7",24/7 POWER RANGERS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH" tvg-logo="" group-title="24/7",24/7 ROBOTECH
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/63.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOON" tvg-logo="" group-title="24/7",24/7 SAILOR MOON
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 1
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/65.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 2" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 2
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERA" tvg-logo="" group-title="24/7",24/7 SHERA
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/67.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE" tvg-logo="" group-title="24/7",24/7 SMALLVILLE
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/68.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER-MAN" tvg-logo="" group-title="24/7",24/7 SPIDER-MAN
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 STRANGER THINGS" tvg-logo="" group-title="24/7",24/7 STRANGER THINGS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/70.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="" group-title="24/7",24/7 SUPER CAMPEONES
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/71.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCAST" tvg-logo="" group-title="24/7",24/7 THUNDERCAST
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/72.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="https://images3.alphacoders.com/867/thumb-1920-867349.png" group-title="24/7",24/7 XMEN ANIME
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/73.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:A&E Latinoamerica" tvg-logo="" group-title="ENTRETENIMIENTO",MrZutv.net:A&E Latinoamerica
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/258.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Animal Planet LatinoamÃ©rica" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Animal Planet LatinoamÃ©rica
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/259.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Axn" tvg-logo="" group-title="SERIES",MrZutv.net:Axn
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/263.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Azteca Uno" tvg-logo="" group-title="MEXICO",MrZutv.net:Azteca Uno
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/265.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Boomerang Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Boomerang Mexico
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/267.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Cartoon Network Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Cartoon Network Mexico
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/274.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Cinecanal Oeste" tvg-logo="" group-title="CINEMA",MrZutv.net:Cinecanal Oeste
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/275.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:CineLatino" tvg-logo="" group-title="CINEMA",MrZutv.net:CineLatino
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/276.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:CNN en EspaÃ±ol" tvg-logo="" group-title="NOTICIAS",MrZutv.net:CNN en EspaÃ±ol
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/279.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Discovery Channel" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Discovery Channel
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/283.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Discovery Home & Health" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Discovery Home & Health
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/284.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Discovery Turbo" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Discovery Turbo
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/286.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Disney Channel MÃ©xico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Disney Channel MÃ©xico
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/287.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Disney Junior Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Disney Junior Mexico
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/288.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Disney XD Mexico" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Disney XD Mexico
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/289.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FoX Channel" tvg-logo="" group-title="SERIES",MrZutv.net:FoX Channel
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/295.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Action" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Action
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/297.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Family Oeste" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Family Oeste
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/300.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Movies" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Movies
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/301.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Fox Premium Series Oeste" tvg-logo="" group-title="CINEMA",MrZutv.net:Fox Premium Series Oeste
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/302.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FX" tvg-logo="" group-title="SERIES",MrZutv.net:FX
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/306.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:FXM Oeste" tvg-logo="" group-title="SERIES",MrZutv.net:FXM Oeste
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/307.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO + Latinoamerica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO + Latinoamerica
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/309.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO 2 Latinoamerica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO 2 Latinoamerica
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/310.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO Family Latinoamerica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO Family Latinoamerica
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/311.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:HBO LatinoamÃ©rica" tvg-logo="" group-title="CINEMA",MrZutv.net:HBO LatinoamÃ©rica
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/312.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Hbo Xtreme" tvg-logo="" group-title="CINEMA",MrZutv.net:Hbo Xtreme
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/313.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:History LatinoamÃ©rica" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:History LatinoamÃ©rica
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/315.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net: Investigation Discovery" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net: Investigation Discovery
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/321.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Las Estrellas MÃ©xico" tvg-logo="" group-title="MEXICO",MrZutv.net:Las Estrellas MÃ©xico
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/324.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:MTV Latino" tvg-logo="" group-title="MUSICA",MrZutv.net:MTV Latino
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/329.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:National Geographic Norte" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:National Geographic Norte
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/333.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:National Geographic Wild" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:National Geographic Wild
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/334.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Nick Jr Latin America" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Nick Jr Latin America
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/335.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Nickelodeon Norte" tvg-logo="" group-title="NIÃ‘OS",MrZutv.net:Nickelodeon Norte
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/336.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Paramount Network Latin America" tvg-logo="" group-title="CINEMA",MrZutv.net:Paramount Network Latin America
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/340.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Playboy" tvg-logo="" group-title="XXX",MrZutv.net:Playboy
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/341.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Sextreme" tvg-logo="" group-title="XXX",MrZutv.net:Sextreme
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/343.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Sony Channel Sur" tvg-logo="" group-title="SERIES",MrZutv.net:Sony Channel Sur
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/344.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Space MExico" tvg-logo="" group-title="CINEMA",MrZutv.net:Space MExico
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/345.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Studio Universal" tvg-logo="" group-title="SERIES",MrZutv.net:Studio Universal
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/346.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Tcl" tvg-logo="" group-title="MUNDO Y CULTURA",MrZutv.net:Tcl
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/349.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:TNT AmÃ©rica Latina" tvg-logo="" group-title="CINEMA",MrZutv.net:TNT AmÃ©rica Latina
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/351.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:TNT Series MÃ©xico" tvg-logo="" group-title="SERIES",MrZutv.net:TNT Series MÃ©xico
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/352.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Universal TV" tvg-logo="" group-title="SERIES",MrZutv.net:Universal TV
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/355.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Venus" tvg-logo="" group-title="XXX",MrZutv.net:Venus
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/356.ts
-#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Warner Channel" tvg-logo="" group-title="SERIES",MrZutv.net:Warner Channel
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/359.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Bigass 2" tvg-logo="" group-title="XXX",XXX: Bigass 2
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/360.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: bigtits" tvg-logo="" group-title="XXX",XXX: bigtits
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/361.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK RAW" tvg-logo="" group-title="XXX",XXX: BLACK RAW
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/362.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: brazzers" tvg-logo="" group-title="XXX",XXX: brazzers
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/363.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMINE JAE" tvg-logo="" group-title="XXX",XXX: JASMINE JAE
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/364.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAKHALIFA" tvg-logo="" group-title="XXX",XXX: MIAKHALIFA
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/365.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS" tvg-logo="" group-title="XXX",XXX: MOFOS
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/366.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TUSHY RAW" tvg-logo="" group-title="XXX",XXX: TUSHY RAW
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/367.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN" tvg-logo="" group-title="XXX",XXX: VIXEN
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/368.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX:Fetich 2" tvg-logo="" group-title="XXX",XXX:Fetich 2
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/369.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXXX: MILF 2" tvg-logo="" group-title="XXX",XXXX: MILF 2
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/370.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXXX: sex mex" tvg-logo="" group-title="XXX",XXXX: sex mex
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/371.ts
-#EXTINF:-1 tvg-id="" tvg-name="url vencida" tvg-logo="" group-title="24/7",url vencida
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/372.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARTIDO DE HOY 2" tvg-logo="" group-title="DEPORTES DE HOY ",PARTIDO DE HOY 2
-http://zutv.online:2086/live/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/565.ts
-#EXTINF:-1 tvg-id="" tvg-name="Â¡Feliz Halloween, Scooby-Doo! (2020)" tvg-logo="" group-title=" PELICULAS HD 2020",Â¡Feliz Halloween, Scooby-Doo! (2020)
-http://zutv.online:2086/movie/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Â¡Scooby! (2020)" tvg-logo="" group-title=" PELICULAS HD 2020",Â¡Scooby! (2020)
-http://zutv.online:2086/movie/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/sdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSDsdsdSD/874.mp4
+#EXTINF:-1,AE Mundo
+http://45.71.202.210:50000/play/a00x/index.m3u8
+
+#EXTINF:-1,AXN (clone)
+http://45.71.202.210:50000/play/a08s/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://45.71.202.210:50000/play/a00o/index.m3u8
+
+#EXTINF:-1,CNN Chile
+http://45.71.202.210:50000/play/a01r/index.m3u8
+
+#EXTINF:-1,CNN Espanol
+http://45.71.202.210:50000/play/a002/index.m3u8
+
+#EXTINF:-1,Canal Claro
+http://45.71.202.210:50000/play/a024/index.m3u8
+
+#EXTINF:-1,Canal Uno TV Ecu
+http://45.71.202.210:50000/play/a07i/index.m3u8
+
+#EXTINF:-1,Canal de Las estrellas
+http://45.71.202.210:50000/play/a08m/index.m3u8
+
+#EXTINF:-1,Capital TV
+http://45.71.202.210:50000/play/a023/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://45.71.202.210:50000/play/a01u/index.m3u8
+
+#EXTINF:-1,Cinecanal
+http://45.71.202.210:50000/play/a01k/index.m3u8
+
+#EXTINF:-1,Cinemax
+http://45.71.202.210:50000/play/a02n/index.m3u8
+
+#EXTINF:-1,Claro Cinema
+http://45.71.202.210:50000/play/a02y/index.m3u8
+
+#EXTINF:-1,ClaroSports
+http://45.71.202.210:50000/play/a01w/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://45.71.202.210:50000/play/a00n/index.m3u8
+
+#EXTINF:-1,Discovery ID
+http://45.71.202.210:50000/play/a022/index.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://45.71.202.210:50000/play/a001/index.m3u8
+
+#EXTINF:-1,Discovery Turbo
+http://45.71.202.210:50000/play/a030/index.m3u8
+
+#EXTINF:-1,Disney Channel
+http://45.71.202.210:50000/play/a00m/index.m3u8
+
+#EXTINF:-1,Disney Jr
+http://45.71.202.210:50000/play/a00i/index.m3u8
+
+#EXTINF:-1,E Entertainment
+http://45.71.202.210:50000/play/a00q/index.m3u8
+
+#EXTINF:-1,ESPN
+http://45.71.202.210:50000/play/a00s/index.m3u8
+
+#EXTINF:-1,ESPN 2
+http://45.71.202.210:50000/play/a00t/index.m3u8
+
+#EXTINF:-1,ESPN 2 CO
+http://45.71.202.210:50000/play/a07u/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://45.71.202.210:50000/play/a032/index.m3u8
+
+#EXTINF:-1,Ecuador TV
+http://45.71.202.210:50000/play/a02i/index.m3u8
+
+#EXTINF:-1,Ecuavisa (clone)-fsef02
+http://45.71.202.210:50000/play/a08p/index.m3u8
+
+#EXTINF:-1,Enlace
+http://45.71.202.210:50000/play/a01z/index.m3u8
+
+#EXTINF:-1,EsneTV
+http://45.71.202.210:50000/play/a031/index.m3u8
+
+#EXTINF:-1,FX
+http://45.71.202.210:50000/play/a02r/index.m3u8
+
+#EXTINF:-1,FX Movies
+http://45.71.202.210:50000/play/a008/index.m3u8
+
+#EXTINF:-1,Fox Channel
+http://45.71.202.210:50000/play/a01m/index.m3u8
+
+#EXTINF:-1,Fox Life
+http://45.71.202.210:50000/play/a01q/index.m3u8
+
+#EXTINF:-1,Fox Sport PY
+http://45.71.202.210:50000/play/a02d/index.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://45.71.202.210:50000/play/a01c/index.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://45.71.202.210:50000/play/a01d/index.m3u8
+
+#EXTINF:-1,GOL TV
+http://45.71.202.210:50000/play/a00u/index.m3u8
+
+#EXTINF:-1,GOLTVEC
+http://45.71.202.210:50000/play/a07h/index.m3u8
+
+#EXTINF:-1,GamaTV
+http://45.71.202.210:50000/play/a02j/index.m3u8
+
+#EXTINF:-1,HBO
+http://45.71.202.210:50000/play/a02m/index.m3u8
+
+#EXTINF:-1,HBO Family
+http://45.71.202.210:50000/play/a00h/index.m3u8
+
+#EXTINF:-1,HBO Plus
+http://45.71.202.210:50000/play/a00f/index.m3u8
+
+#EXTINF:-1,History Channel
+http://45.71.202.210:50000/play/a01j/index.m3u8
+
+#EXTINF:-1,Home and Health
+http://45.71.202.210:50000/play/a026/index.m3u8
+
+#EXTINF:-1,I-Sat
+http://45.71.202.210:50000/play/a01n/index.m3u8
+
+#EXTINF:-1,MTV
+http://45.71.202.210:50000/play/a01o/index.m3u8
+
+#EXTINF:-1,Max Prime
+http://45.71.202.210:50000/play/a00g/index.m3u8
+
+#EXTINF:-1,Nat Geo
+http://45.71.202.210:50000/play/a01i/index.m3u8
+
+#EXTINF:-1,NatGeo Kids
+http://45.71.202.210:50000/play/a01t/index.m3u8
+
+#EXTINF:-1,Nick Jr
+http://45.71.202.210:50000/play/a02z/index.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://45.71.202.210:50000/play/a01g/index.m3u8
+
+#EXTINF:-1,RCN Novelas
+http://45.71.202.210:50000/play/a021/index.m3u8
+
+#EXTINF:-1,Sony
+http://45.71.202.210:50000/play/a02o/index.m3u8
+
+#EXTINF:-1,Space
+http://45.71.202.210:50000/play/a02q/index.m3u8
+
+#EXTINF:-1,TBS
+http://45.71.202.210:50000/play/a025/index.m3u8
+
+#EXTINF:-1,TC Television
+http://45.71.202.210:50000/play/a07k/index.m3u8
+
+#EXTINF:-1,TNT
+http://45.71.202.210:50000/play/a01v/index.m3u8
+
+#EXTINF:-1,TVE
+http://45.71.202.210:50000/play/a020/index.m3u8
+
+#EXTINF:-1,Teleamazonas
+http://45.71.202.210:50000/play/a07o/index.m3u8
+
+#EXTINF:-1,Teleamazonas (clone)-fsef01
+http://45.71.202.210:50000/play/a08q/index.m3u8
+
+#EXTINF:-1,Telemundo
+http://45.71.202.210:50000/play/a01e/index.m3u8
+
+#EXTINF:-1,Travel and Living
+http://45.71.202.210:50000/play/a019/index.m3u8
+
+#EXTINF:-1,TyC Sports
+http://45.71.202.210:50000/play/a00v/index.m3u8
+
+#EXTINF:-1,Universal
+http://45.71.202.210:50000/play/a01l/index.m3u8
+
+#EXTINF:-1,Warner
+http://45.71.202.210:50000/play/a00p/index.m3u8
+
+#EXTINF:-1,24 horas ---------------------------------
+http://179.51.168.13:3000/play/z00p
+
+#EXTINF:-1,AE Mundo
+http://179.51.168.13:3000/play/a02m
+
+#EXTINF:-1,AMC HD
+http://179.51.168.13:3000/play/uy7
+
+#EXTINF:-1,Animal Planet
+http://179.51.168.13:3000/play/a02n
+
+#EXTINF:-1,CANAL_13_HD_1
+http://179.51.168.13:3000/play/aq21
+
+#EXTINF:-1,CHV
+http://179.51.168.13:3000/play/z009
+
+#EXTINF:-1,CHV_HD_1
+http://179.51.168.13:3000/play/asd2
+
+#EXTINF:-1,Cartoon Network
+http://179.51.168.13:3000/play/a02d
+
+#EXTINF:-1,Cinecanal
+http://179.51.168.13:3000/play/a02q
+
+#EXTINF:-1,Cinemax
+http://179.51.168.13:3000/play/a02r
+
+#EXTINF:-1,Discovery Channel
+http://179.51.168.13:3000/play/a02s
+
+#EXTINF:-1,Discovery ID
+http://179.51.168.13:3000/play/a02t
+
+#EXTINF:-1,Discovery Kids
+http://179.51.168.13:3000/play/a02e
+
+#EXTINF:-1,Discovery Turbo
+http://179.51.168.13:3000/play/a02u
+
+#EXTINF:-1,Disney Channel
+http://179.51.168.13:3000/play/a02f
+
+#EXTINF:-1,Disney Jr
+http://179.51.168.13:3000/play/a02g
+
+#EXTINF:-1,Disney XD
+http://179.51.168.13:3000/play/a02h
+
+#EXTINF:-1,E Entertainment
+http://179.51.168.13:3000/play/a02p
+
+#EXTINF:-1,ESPN
+http://179.51.168.13:3000/play/a02v
+
+#EXTINF:-1,ESPN 2
+http://179.51.168.13:3000/play/a02w
+
+#EXTINF:-1,ESPN 3
+http://179.51.168.13:3000/play/a02x
+
+#EXTINF:-1,FOX P ACTION
+http://179.51.168.13:3000/play/a02y
+
+#EXTINF:-1,FOX P MOVIES
+http://179.51.168.13:3000/play/a02z
+
+#EXTINF:-1,FOX P SERIES E
+http://179.51.168.13:3000/play/a030
+
+#EXTINF:-1,FOX_HD_1
+http://179.51.168.13:3000/play/asd8
+
+#EXTINF:-1,FX
+http://179.51.168.13:3000/play/a031
+
+#EXTINF:-1,FX Movies
+http://179.51.168.13:3000/play/a032
+
+#EXTINF:-1,Fox Channel
+http://179.51.168.13:3000/play/a033
+
+#EXTINF:-1,Fox Sports
+http://179.51.168.13:3000/play/a035
+
+#EXTINF:-1,Fox Sports 1
+http://179.51.168.13:3000/play/a036
+
+#EXTINF:-1,Fox Sports 3
+http://179.51.168.13:3000/play/a038
+
+#EXTINF:-1,HBO
+http://179.51.168.13:3000/play/a039
+
+#EXTINF:-1,HBO 2
+http://179.51.168.13:3000/play/a03a
+
+#EXTINF:-1,HBO Family
+http://179.51.168.13:3000/play/a03b
+
+#EXTINF:-1,HBO POP
+http://179.51.168.13:3000/play/a02o
+
+#EXTINF:-1,HBO Plus
+http://179.51.168.13:3000/play/a03c
+
+#EXTINF:-1,HBO XTREME
+http://179.51.168.13:3000/play/a03d
+
+#EXTINF:-1,History Channel
+http://179.51.168.13:3000/play/a03e
+
+#EXTINF:-1,Home and Health
+http://179.51.168.13:3000/play/a03f
+
+#EXTINF:-1,I-Sat
+http://179.51.168.13:3000/play/a03g
+
+#EXTINF:-1,MEGA
+http://179.51.168.13:3000/play/a03q
+
+#EXTINF:-1,MEGA_HD_1
+http://179.51.168.13:3000/play/asd3
+
+#EXTINF:-1,MTV
+http://179.51.168.13:3000/play/a03i
+
+#EXTINF:-1,Nat Geo
+http://179.51.168.13:3000/play/a02i
+
+#EXTINF:-1,NatGeo Kids
+http://179.51.168.13:3000/play/a02j
+
+#EXTINF:-1,Nick Jr
+http://179.51.168.13:3000/play/a02k
+
+#EXTINF:-1,Nickelodeon
+http://179.51.168.13:3000/play/a02l
+
+#EXTINF:-1,PELÃCULAS
+http://179.51.168.13:3000/play/a034
+
+#EXTINF:-1,Sony
+http://179.51.168.13:3000/play/a03k
+
+#EXTINF:-1,Space
+http://179.51.168.13:3000/play/a03h
+
+#EXTINF:-1,TBS
+http://179.51.168.13:3000/play/a03j
+
+#EXTINF:-1,TCM
+http://179.51.168.13:3000/play/a03l
+
+#EXTINF:-1,TNT
+http://179.51.168.13:3000/play/a03m
+
+#EXTINF:-1,TVN
+http://179.51.168.13:3000/play/anc198
+
+#EXTINF:-1,TVN_HD_1
+http://179.51.168.13:3000/play/asd5
+
+#EXTINF:-1,Travel and Living
+http://179.51.168.13:3000/play/a03n
+
+#EXTINF:-1,Universal
+http://179.51.168.13:3000/play/a03o
+
+#EXTINF:-1,Warner
+http://179.51.168.13:3000/play/a03p
+
+#EXTINF:-1,cdf hd
+http://179.51.168.13:3000/play/a037
+
+#EXTINF:-1,fox sport 2
+http://179.51.168.13:3000/play/ag45
+
+#EXTINF:-1,13 C ---------------------------------
+http://200.54.19.131:8500/play/a0g3/index.m3u8
+
+#EXTINF:-1,24 Horas TVN
+http://200.54.19.131:8500/play/a0db/index.m3u8
+
+#EXTINF:-1,A&amp;E
+http://200.54.19.131:8500/play/a0kt/index.m3u8
+
+#EXTINF:-1,ANTV
+http://200.54.19.131:8500/play/a0h1/index.m3u8
+
+#EXTINF:-1,ATRES SERIES
+http://200.54.19.131:8500/play/a0kx/index.m3u8
+
+#EXTINF:-1,ATV
+http://200.54.19.131:8500/play/a0du/index.m3u8
+
+#EXTINF:-1,AXN
+http://200.54.19.131:8500/play/a0gj/index.m3u8
+
+#EXTINF:-1,AmÃ˜rica TelevisiÃ°n
+http://200.54.19.131:8500/play/a0md/index.m3u8
+
+#EXTINF:-1,AmÃ˜rica TelevisiÃ°n
+http://200.54.19.131:8500/play/a0dp/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://200.54.19.131:8500/play/a0j4/index.m3u8
+
+#EXTINF:-1,Antena 3
+http://200.54.19.131:8500/play/a0i8/index.m3u8
+
+#EXTINF:-1,BBC World
+http://200.54.19.131:8500/play/a0kl/index.m3u8
+
+#EXTINF:-1,Baby TV
+http://200.54.19.131:8500/play/a0kf/index.m3u8
+
+#EXTINF:-1,Boomerang
+http://200.54.19.131:8500/play/a0h9/index.m3u8
+
+#EXTINF:-1,CDF BÃ†sico
+http://200.54.19.131:8500/play/a0jb/index.m3u8
+
+#EXTINF:-1,CDF Premium
+http://200.54.19.131:8500/play/a0jx/index.m3u8
+
+#EXTINF:-1,CDO BÃ†sico
+http://200.54.19.131:8500/play/a0gg/index.m3u8
+
+#EXTINF:-1,CDO Premium
+http://200.54.19.131:8500/play/a0gh/index.m3u8
+
+#EXTINF:-1,CHV
+http://200.54.19.131:8500/play/a0d5/index.m3u8
+
+#EXTINF:-1,CMD
+http://200.54.19.131:8500/play/a0ee/index.m3u8
+
+#EXTINF:-1,CNN Chile
+http://200.54.19.131:8500/play/a0i7/index.m3u8
+
+#EXTINF:-1,CNN EspaÃ¦ol
+http://200.54.19.131:8500/play/a0kk/index.m3u8
+
+#EXTINF:-1,CNN International
+http://200.54.19.131:8500/play/a0km/index.m3u8
+
+#EXTINF:-1,Canal  Capital
+http://200.54.19.131:8500/play/a0j0/index.m3u8
+
+#EXTINF:-1,Canal 1
+http://200.54.19.131:8500/play/a0g4/index.m3u8
+
+#EXTINF:-1,Canal 13
+http://200.54.19.131:8500/play/a0d6/index.m3u8
+
+#EXTINF:-1,Canal Fox
+http://200.54.19.131:8500/play/a0dh/index.m3u8
+
+#EXTINF:-1,Canal I
+http://200.54.19.131:8500/play/a0hy/index.m3u8
+
+#EXTINF:-1,Canal N
+http://200.54.19.131:8500/play/a0dt/index.m3u8
+
+#EXTINF:-1,Canal TRO
+http://200.54.19.131:8500/play/a0iy/index.m3u8
+
+#EXTINF:-1,Canal del Congreso
+http://200.54.19.131:8500/play/a0hz/index.m3u8
+
+#EXTINF:-1,Caracol
+http://200.54.19.131:8500/play/a0iw/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://200.54.19.131:8500/play/a0m1/index.m3u8
+
+#EXTINF:-1,Cinecanal
+http://200.54.19.131:8500/play/a0nk/index.m3u8
+
+#EXTINF:-1,Cinemax
+http://200.54.19.131:8500/play/a0hh/index.m3u8
+
+#EXTINF:-1,City TV
+http://200.54.19.131:8500/play/a0kd/index.m3u8
+
+#EXTINF:-1,Comedy Central
+http://200.54.19.131:8500/play/a0nj/index.m3u8
+
+#EXTINF:-1,Conciencia
+http://200.54.19.131:8500/play/a0h5/index.m3u8
+
+#EXTINF:-1,DW (Deutsch +)
+http://200.54.19.131:8500/play/a0kp/index.m3u8
+
+#EXTINF:-1,De PelÅ¦cula
+http://200.54.19.131:8500/play/a0k7/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://200.54.19.131:8500/play/a0j5/index.m3u8
+
+#EXTINF:-1,Discovery H&amp;H
+http://200.54.19.131:8500/play/a0g7/index.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://200.54.19.131:8500/play/a0j1/index.m3u8
+
+#EXTINF:-1,Discovery Science
+http://200.54.19.131:8500/play/a0ha/index.m3u8
+
+#EXTINF:-1,Discovery Turbo
+http://200.54.19.131:8500/play/a0k5/index.m3u8
+
+#EXTINF:-1,Disney Channel
+http://200.54.19.131:8500/play/a0jr/index.m3u8
+
+#EXTINF:-1,Disney Junior
+http://200.54.19.131:8500/play/a0g5/index.m3u8
+
+#EXTINF:-1,Disney Xd
+http://200.54.19.131:8500/play/a0js/index.m3u8
+
+#EXTINF:-1,E! Entertainment TV
+http://200.54.19.131:8500/play/a0i4/index.m3u8
+
+#EXTINF:-1,ESPN
+http://200.54.19.131:8500/play/a0m5/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://200.54.19.131:8500/play/a0gi/index.m3u8
+
+#EXTINF:-1,ESPN2
+http://200.54.19.131:8500/play/a0m4/index.m3u8
+
+#EXTINF:-1,ESPN2
+http://200.54.19.131:8500/play/a0m6/index.m3u8
+
+#EXTINF:-1,ETC TV
+http://200.54.19.131:8500/play/a0d9/index.m3u8
+
+#EXTINF:-1,EWTN
+http://200.54.19.131:8500/play/a0gd/index.m3u8
+
+#EXTINF:-1,El Trece
+http://200.54.19.131:8500/play/a0eb/index.m3u8
+
+#EXTINF:-1,ElCanaldelFutbol SD
+http://200.54.19.131:8500/play/a0dm/index.m3u8
+
+#EXTINF:-1,Enlace
+http://200.54.19.131:8500/play/a0ji/index.m3u8
+
+#EXTINF:-1,Epoca
+http://200.54.19.131:8500/play/a0ke/index.m3u8
+
+#EXTINF:-1,Eurochannel
+http://200.54.19.131:8500/play/a0kn/index.m3u8
+
+#EXTINF:-1,FANB
+http://200.54.19.131:8500/play/a0h6/index.m3u8
+
+#EXTINF:-1,FOX Sport Ven
+http://200.54.19.131:8500/play/a0de/index.m3u8
+
+#EXTINF:-1,FX
+http://200.54.19.131:8500/play/a0gm/index.m3u8
+
+#EXTINF:-1,FX Movies
+http://200.54.19.131:8500/play/a0lv/index.m3u8
+
+#EXTINF:-1,Film&amp;Arts
+http://200.54.19.131:8500/play/a0j6/index.m3u8
+
+#EXTINF:-1,Fox Action
+http://200.54.19.131:8500/play/a0e7/index.m3u8
+
+#EXTINF:-1,Fox Channel
+http://200.54.19.131:8500/play/a0e4/index.m3u8
+
+#EXTINF:-1,Fox Cinema
+http://200.54.19.131:8500/play/a0e8/index.m3u8
+
+#EXTINF:-1,Fox Classics
+http://200.54.19.131:8500/play/a0ih/index.m3u8
+
+#EXTINF:-1,Fox Comedy
+http://200.54.19.131:8500/play/a0e9/index.m3u8
+
+#EXTINF:-1,Fox Family
+http://200.54.19.131:8500/play/a0jh/index.m3u8
+
+#EXTINF:-1,Fox Life
+http://200.54.19.131:8500/play/a0j7/index.m3u8
+
+#EXTINF:-1,Fox Movies
+http://200.54.19.131:8500/play/a0ig/index.m3u8
+
+#EXTINF:-1,Fox Series E
+http://200.54.19.131:8500/play/a0dj/index.m3u8
+
+#EXTINF:-1,Fox Series O
+http://200.54.19.131:8500/play/a0dk/index.m3u8
+
+#EXTINF:-1,Fox Sports
+http://200.54.19.131:8500/play/a0dc/index.m3u8
+
+#EXTINF:-1,Fox Sports 1
+http://200.54.19.131:8500/play/a0ib/index.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://200.54.19.131:8500/play/a0hc/index.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://200.54.19.131:8500/play/a0ks/index.m3u8
+
+#EXTINF:-1,GLOBAL
+http://200.54.19.131:8500/play/a0dv/index.m3u8
+
+#EXTINF:-1,GOLPERU
+http://200.54.19.131:8500/play/a0k9/index.m3u8
+
+#EXTINF:-1,GamavisiÃ°n
+http://200.54.19.131:8500/play/a0eg/index.m3u8
+
+#EXTINF:-1,Globovision
+http://200.54.19.131:8500/play/a0jl/index.m3u8
+
+#EXTINF:-1,Gol TV
+http://200.54.19.131:8500/play/a0kr/index.m3u8
+
+#EXTINF:-1,Golden
+http://200.54.19.131:8500/play/a0hd/index.m3u8
+
+#EXTINF:-1,Golden Edge
+http://200.54.19.131:8500/play/a0di/index.m3u8
+
+#EXTINF:-1,Golf Channel
+http://200.54.19.131:8500/play/a0gt/index.m3u8
+
+#EXTINF:-1,HBO
+http://200.54.19.131:8500/play/a0e5/index.m3u8
+
+#EXTINF:-1,HBO Family
+http://200.54.19.131:8500/play/a0ky/index.m3u8
+
+#EXTINF:-1,HBO MUNDI
+http://200.54.19.131:8500/play/a0k4/index.m3u8
+
+#EXTINF:-1,HBO POP
+http://200.54.19.131:8500/play/a0l3/index.m3u8
+
+#EXTINF:-1,HBO Plus
+http://200.54.19.131:8500/play/a0l0/index.m3u8
+
+#EXTINF:-1,HBO Signature
+http://200.54.19.131:8500/play/a0l1/index.m3u8
+
+#EXTINF:-1,HBO XTREME
+http://200.54.19.131:8500/play/a0kz/index.m3u8
+
+#EXTINF:-1,HBO2
+http://200.54.19.131:8500/play/a0e6/index.m3u8
+
+#EXTINF:-1,HTV
+http://200.54.19.131:8500/play/a0jw/index.m3u8
+
+#EXTINF:-1,History 2
+http://200.54.19.131:8500/play/a0i2/index.m3u8
+
+#EXTINF:-1,History Channel
+http://200.54.19.131:8500/play/a0g6/index.m3u8
+
+#EXTINF:-1,Hola TV
+http://200.54.19.131:8500/play/a0j8/index.m3u8
+
+#EXTINF:-1,I SAT
+http://200.54.19.131:8500/play/a0hf/index.m3u8
+
+#EXTINF:-1,ID - Investigation Discovery
+http://200.54.19.131:8500/play/a0gl/index.m3u8
+
+#EXTINF:-1,Las Estrellas
+http://200.54.19.131:8500/play/a0jv/index.m3u8
+
+#EXTINF:-1,Lifetime
+http://200.54.19.131:8500/play/a0jz/index.m3u8
+
+#EXTINF:-1,MEGA
+http://200.54.19.131:8500/play/a0l5/index.m3u8
+
+#EXTINF:-1,MTV
+http://200.54.19.131:8500/play/a0kj/index.m3u8
+
+#EXTINF:-1,Meridiano
+http://200.54.19.131:8500/play/a0h3/index.m3u8
+
+#EXTINF:-1,Movistar Deportes
+http://200.54.19.131:8500/play/a0do/index.m3u8
+
+#EXTINF:-1,Movistar Plus
+http://200.54.19.131:8500/play/a0dr/index.m3u8
+
+#EXTINF:-1,Movistar Series
+http://200.54.19.131:8500/play/a0iu/index.m3u8
+
+#EXTINF:-1,Movistar TV
+http://200.54.19.131:8500/play/a0it/index.m3u8
+
+#EXTINF:-1,Nat Geo Kids
+http://200.54.19.131:8500/play/a0j3/index.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://200.54.19.131:8500/play/a0i3/index.m3u8
+
+#EXTINF:-1,National Geographic
+http://200.54.19.131:8500/play/a0i1/index.m3u8
+
+#EXTINF:-1,Nick Jr
+http://200.54.19.131:8500/play/a0ea/index.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://200.54.19.131:8500/play/a0h8/index.m3u8
+
+#EXTINF:-1,Nuestra Tele
+http://200.54.19.131:8500/play/a0jp/index.m3u8
+
+#EXTINF:-1,Nuestra Tele
+http://200.54.19.131:8500/play/a0k6/index.m3u8
+
+#EXTINF:-1,Orbe 21
+http://200.54.19.131:8500/play/a0ge/index.m3u8
+
+#EXTINF:-1,PLUSTV
+http://200.54.19.131:8500/play/a0e0/index.m3u8
+
+#EXTINF:-1,Panamericana
+http://200.54.19.131:8500/play/a0dq/index.m3u8
+
+#EXTINF:-1,Paramount Channel
+http://200.54.19.131:8500/play/a0hg/index.m3u8
+
+#EXTINF:-1,PerÅ“ MÃ†gico
+http://200.54.19.131:8500/play/a0e1/index.m3u8
+
+#EXTINF:-1,Playboy
+http://200.54.19.131:8500/play/a0in/index.m3u8
+
+#EXTINF:-1,RAI
+http://200.54.19.131:8500/play/a0ko/index.m3u8
+
+#EXTINF:-1,RCN
+http://200.54.19.131:8500/play/a0jo/index.m3u8
+
+#EXTINF:-1,REC TV
+http://200.54.19.131:8500/play/a0gv/index.m3u8
+
+#EXTINF:-1,RED TelevisiÃ°n
+http://200.54.19.131:8500/play/a0g2/index.m3u8
+
+#EXTINF:-1,RPP
+http://200.54.19.131:8500/play/a0g0/index.m3u8
+
+#EXTINF:-1,Sextreme
+http://200.54.19.131:8500/play/a0gq/index.m3u8
+
+#EXTINF:-1,SeÃ¦al Colombia
+http://200.54.19.131:8500/play/a0jn/index.m3u8
+
+#EXTINF:-1,Sony
+http://200.54.19.131:8500/play/a0ic/index.m3u8
+
+#EXTINF:-1,Space
+http://200.54.19.131:8500/play/a0k1/index.m3u8
+
+#EXTINF:-1,Studio Universal
+http://200.54.19.131:8500/play/a0k0/index.m3u8
+
+#EXTINF:-1,SyFy
+http://200.54.19.131:8500/play/a0ie/index.m3u8
+
+#EXTINF:-1,TBS Very Funny
+http://200.54.19.131:8500/play/a0im/index.m3u8
+
+#EXTINF:-1,TCM
+http://200.54.19.131:8500/play/a0he/index.m3u8
+
+#EXTINF:-1,TLC
+http://200.54.19.131:8500/play/a0kh/index.m3u8
+
+#EXTINF:-1,TLT
+http://200.54.19.131:8500/play/a0jm/index.m3u8
+
+#EXTINF:-1,TNT
+http://200.54.19.131:8500/play/a0kv/index.m3u8
+
+#EXTINF:-1,TNT Series
+http://200.54.19.131:8500/play/a0kw/index.m3u8
+
+#EXTINF:-1,TV Diputados
+http://200.54.19.131:8500/play/a0gb/index.m3u8
+
+#EXTINF:-1,TV EPACO
+http://200.54.19.131:8500/play/a0h4/index.m3u8
+
+#EXTINF:-1,TV FAMILIA
+http://200.54.19.131:8500/play/a0gx/index.m3u8
+
+#EXTINF:-1,TV PERU
+http://200.54.19.131:8500/play/a0ds/index.m3u8
+
+#EXTINF:-1,TV+
+http://200.54.19.131:8500/play/a0d2/index.m3u8
+
+#EXTINF:-1,TVE
+http://200.54.19.131:8500/play/a0gc/index.m3u8
+
+#EXTINF:-1,TVES
+http://200.54.19.131:8500/play/a0gz/index.m3u8
+
+#EXTINF:-1,TVN
+http://200.54.19.131:8500/play/a0d3/index.m3u8
+
+#EXTINF:-1,Teleantioquia
+http://200.54.19.131:8500/play/a0kc/index.m3u8
+
+#EXTINF:-1,Telecafe
+http://200.54.19.131:8500/play/a0iz/index.m3u8
+
+#EXTINF:-1,Telecanal
+http://200.54.19.131:8500/play/a0hx/index.m3u8
+
+#EXTINF:-1,Telecaribe
+http://200.54.19.131:8500/play/a0ix/index.m3u8
+
+#EXTINF:-1,Teleislas
+http://200.54.19.131:8500/play/a0h7/index.m3u8
+
+#EXTINF:-1,Telemundo
+http://200.54.19.131:8500/play/a0dx/index.m3u8
+
+#EXTINF:-1,Telenovelas
+http://200.54.19.131:8500/play/a0g9/index.m3u8
+
+#EXTINF:-1,Telepacifico
+http://200.54.19.131:8500/play/a0kb/index.m3u8
+
+#EXTINF:-1,Telesur
+http://200.54.19.131:8500/play/a0ka/index.m3u8
+
+#EXTINF:-1,Telesur
+http://200.54.19.131:8500/play/a0kq/index.m3u8
+
+#EXTINF:-1,Teletrak
+http://200.54.19.131:8500/play/a0dd/index.m3u8
+
+#EXTINF:-1,Televen
+http://200.54.19.131:8500/play/a0iv/index.m3u8
+
+#EXTINF:-1,Tooncast
+http://200.54.19.131:8500/play/a0l2/index.m3u8
+
+#EXTINF:-1,Travel and Living Channel
+http://200.54.19.131:8500/play/a0ki/index.m3u8
+
+#EXTINF:-1,Tru TV
+http://200.54.19.131:8500/play/a0ku/index.m3u8
+
+#EXTINF:-1,TyC Sports
+http://200.54.19.131:8500/play/a0ed/index.m3u8
+
+#EXTINF:-1,Universal
+http://200.54.19.131:8500/play/a0gk/index.m3u8
+
+#EXTINF:-1,VALE TV
+http://200.54.19.131:8500/play/a0gy/index.m3u8
+
+#EXTINF:-1,Venevision Plus
+http://200.54.19.131:8500/play/a0dw/index.m3u8
+
+#EXTINF:-1,VenevisiÃ°n
+http://200.54.19.131:8500/play/a0gw/index.m3u8
+
+#EXTINF:-1,Venezolana de TelevisiÃ°n
+http://200.54.19.131:8500/play/a0h2/index.m3u8
+
+#EXTINF:-1,Venus
+http://200.54.19.131:8500/play/a0gp/index.m3u8
+
+#EXTINF:-1,Via X
+http://200.54.19.131:8500/play/a0d8/index.m3u8
+
+#EXTINF:-1,Vive
+http://200.54.19.131:8500/play/a0h0/index.m3u8
+
+#EXTINF:-1,WOBI
+http://200.54.19.131:8500/play/a0ec/index.m3u8
+
+#EXTINF:-1,Warner Channel
+http://200.54.19.131:8500/play/a0e3/index.m3u8
+
+#EXTINF:-1,Win Sports
+http://200.54.19.131:8500/play/a0jc/index.m3u8
+
+#EXTINF:-1,Zona Latina
+http://200.54.19.131:8500/play/a0d7/index.m3u8
+
+#EXTINF:-1,13 C -----------------
+http://170.79.233.222:8500/play/a0g3/index.m3u8
+
+#EXTINF:-1,24 Horas TVN
+http://170.79.233.222:8500/play/a0db/index.m3u8
+
+#EXTINF:-1,A&amp;E
+http://170.79.233.222:8500/play/a0kt/index.m3u8
+
+#EXTINF:-1,ANTV
+http://170.79.233.222:8500/play/a0h1/index.m3u8
+
+#EXTINF:-1,ATRES SERIES
+http://170.79.233.222:8500/play/a0kx/index.m3u8
+
+#EXTINF:-1,ATV
+http://170.79.233.222:8500/play/a0du/index.m3u8
+
+#EXTINF:-1,AXN
+http://170.79.233.222:8500/play/a0gj/index.m3u8
+
+#EXTINF:-1,AmÃ˜rica TelevisiÃ°n
+http://170.79.233.222:8500/play/a0md/index.m3u8
+
+#EXTINF:-1,AmÃ˜rica TelevisiÃ°n
+http://170.79.233.222:8500/play/a0dp/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://170.79.233.222:8500/play/a0j4/index.m3u8
+
+#EXTINF:-1,Antena 3
+http://170.79.233.222:8500/play/a0i8/index.m3u8
+
+#EXTINF:-1,BBC World
+http://170.79.233.222:8500/play/a0kl/index.m3u8
+
+#EXTINF:-1,Baby TV
+http://170.79.233.222:8500/play/a0kf/index.m3u8
+
+#EXTINF:-1,Boomerang
+http://170.79.233.222:8500/play/a0h9/index.m3u8
+
+#EXTINF:-1,CDF BÃ†sico
+http://170.79.233.222:8500/play/a0jb/index.m3u8
+
+#EXTINF:-1,CDF Premium
+http://170.79.233.222:8500/play/a0jx/index.m3u8
+
+#EXTINF:-1,CDO BÃ†sico
+http://170.79.233.222:8500/play/a0gg/index.m3u8
+
+#EXTINF:-1,CDO Premium
+http://170.79.233.222:8500/play/a0gh/index.m3u8
+
+#EXTINF:-1,CHV
+http://170.79.233.222:8500/play/a0d5/index.m3u8
+
+#EXTINF:-1,CMD
+http://170.79.233.222:8500/play/a0ee/index.m3u8
+
+#EXTINF:-1,CNN Chile
+http://170.79.233.222:8500/play/a0i7/index.m3u8
+
+#EXTINF:-1,CNN EspaÃ¦ol
+http://170.79.233.222:8500/play/a0kk/index.m3u8
+
+#EXTINF:-1,CNN International
+http://170.79.233.222:8500/play/a0km/index.m3u8
+
+#EXTINF:-1,Canal  Capital
+http://170.79.233.222:8500/play/a0j0/index.m3u8
+
+#EXTINF:-1,Canal 1
+http://170.79.233.222:8500/play/a0g4/index.m3u8
+
+#EXTINF:-1,Canal 13
+http://170.79.233.222:8500/play/a0d6/index.m3u8
+
+#EXTINF:-1,Canal Fox
+http://170.79.233.222:8500/play/a0dh/index.m3u8
+
+#EXTINF:-1,Canal I
+http://170.79.233.222:8500/play/a0hy/index.m3u8
+
+#EXTINF:-1,Canal N
+http://170.79.233.222:8500/play/a0dt/index.m3u8
+
+#EXTINF:-1,Canal TRO
+http://170.79.233.222:8500/play/a0iy/index.m3u8
+
+#EXTINF:-1,Canal del Congreso
+http://170.79.233.222:8500/play/a0hz/index.m3u8
+
+#EXTINF:-1,Caracol
+http://170.79.233.222:8500/play/a0iw/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://170.79.233.222:8500/play/a0m1/index.m3u8
+
+#EXTINF:-1,Cinecanal
+http://170.79.233.222:8500/play/a0nk/index.m3u8
+
+#EXTINF:-1,Cinemax
+http://170.79.233.222:8500/play/a0hh/index.m3u8
+
+#EXTINF:-1,City TV
+http://170.79.233.222:8500/play/a0kd/index.m3u8
+
+#EXTINF:-1,Comedy Central
+http://170.79.233.222:8500/play/a0nj/index.m3u8
+
+#EXTINF:-1,Conciencia
+http://170.79.233.222:8500/play/a0h5/index.m3u8
+
+#EXTINF:-1,DW (Deutsch +)
+http://170.79.233.222:8500/play/a0kp/index.m3u8
+
+#EXTINF:-1,De PelÅ¦cula
+http://170.79.233.222:8500/play/a0k7/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://170.79.233.222:8500/play/a0j5/index.m3u8
+
+#EXTINF:-1,Discovery H&amp;H
+http://170.79.233.222:8500/play/a0g7/index.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://170.79.233.222:8500/play/a0j1/index.m3u8
+
+#EXTINF:-1,Discovery Science
+http://170.79.233.222:8500/play/a0ha/index.m3u8
+
+#EXTINF:-1,Discovery Turbo
+http://170.79.233.222:8500/play/a0k5/index.m3u8
+
+#EXTINF:-1,Disney Channel
+http://170.79.233.222:8500/play/a0jr/index.m3u8
+
+#EXTINF:-1,Disney Junior
+http://170.79.233.222:8500/play/a0g5/index.m3u8
+
+#EXTINF:-1,Disney Xd
+http://170.79.233.222:8500/play/a0js/index.m3u8
+
+#EXTINF:-1,E! Entertainment TV
+http://170.79.233.222:8500/play/a0i4/index.m3u8
+
+#EXTINF:-1,ESPN
+http://170.79.233.222:8500/play/a0m5/index.m3u8
+
+#EXTINF:-1,ESPN 3
+http://170.79.233.222:8500/play/a0gi/index.m3u8
+
+#EXTINF:-1,ESPN2
+http://170.79.233.222:8500/play/a0m4/index.m3u8
+
+#EXTINF:-1,ESPN2
+http://170.79.233.222:8500/play/a0m6/index.m3u8
+
+#EXTINF:-1,ETC TV
+http://170.79.233.222:8500/play/a0d9/index.m3u8
+
+#EXTINF:-1,EWTN
+http://170.79.233.222:8500/play/a0gd/index.m3u8
+
+#EXTINF:-1,El Trece
+http://170.79.233.222:8500/play/a0eb/index.m3u8
+
+#EXTINF:-1,ElCanaldelFutbol SD
+http://170.79.233.222:8500/play/a0dm/index.m3u8
+
+#EXTINF:-1,Enlace
+http://170.79.233.222:8500/play/a0ji/index.m3u8
+
+#EXTINF:-1,Epoca
+http://170.79.233.222:8500/play/a0ke/index.m3u8
+
+#EXTINF:-1,Eurochannel
+http://170.79.233.222:8500/play/a0kn/index.m3u8
+
+#EXTINF:-1,FANB
+http://170.79.233.222:8500/play/a0h6/index.m3u8
+
+#EXTINF:-1,FOX Sport Ven
+http://170.79.233.222:8500/play/a0de/index.m3u8
+
+#EXTINF:-1,FX
+http://170.79.233.222:8500/play/a0gm/index.m3u8
+
+#EXTINF:-1,FX Movies
+http://170.79.233.222:8500/play/a0lv/index.m3u8
+
+#EXTINF:-1,Film&amp;Arts
+http://170.79.233.222:8500/play/a0j6/index.m3u8
+
+#EXTINF:-1,Fox Action
+http://170.79.233.222:8500/play/a0e7/index.m3u8
+
+#EXTINF:-1,Fox Channel
+http://170.79.233.222:8500/play/a0e4/index.m3u8
+
+#EXTINF:-1,Fox Cinema
+http://170.79.233.222:8500/play/a0e8/index.m3u8
+
+#EXTINF:-1,Fox Classics
+http://170.79.233.222:8500/play/a0ih/index.m3u8
+
+#EXTINF:-1,Fox Comedy
+http://170.79.233.222:8500/play/a0e9/index.m3u8
+
+#EXTINF:-1,Fox Family
+http://170.79.233.222:8500/play/a0jh/index.m3u8
+
+#EXTINF:-1,Fox Life
+http://170.79.233.222:8500/play/a0j7/index.m3u8
+
+#EXTINF:-1,Fox Movies
+http://170.79.233.222:8500/play/a0ig/index.m3u8
+
+#EXTINF:-1,Fox Series E
+http://170.79.233.222:8500/play/a0dj/index.m3u8
+
+#EXTINF:-1,Fox Series O
+http://170.79.233.222:8500/play/a0dk/index.m3u8
+
+#EXTINF:-1,Fox Sports
+http://170.79.233.222:8500/play/a0dc/index.m3u8
+
+#EXTINF:-1,Fox Sports 1
+http://170.79.233.222:8500/play/a0ib/index.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://170.79.233.222:8500/play/a0hc/index.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://170.79.233.222:8500/play/a0ks/index.m3u8
+
+#EXTINF:-1,GLOBAL
+http://170.79.233.222:8500/play/a0dv/index.m3u8
+
+#EXTINF:-1,GOLPERU
+http://170.79.233.222:8500/play/a0k9/index.m3u8
+
+#EXTINF:-1,GamavisiÃ°n
+http://170.79.233.222:8500/play/a0eg/index.m3u8
+
+#EXTINF:-1,Globovision
+http://170.79.233.222:8500/play/a0jl/index.m3u8
+
+#EXTINF:-1,Gol TV
+http://170.79.233.222:8500/play/a0kr/index.m3u8
+
+#EXTINF:-1,Golden
+http://170.79.233.222:8500/play/a0hd/index.m3u8
+
+#EXTINF:-1,Golden Edge
+http://170.79.233.222:8500/play/a0di/index.m3u8
+
+#EXTINF:-1,Golf Channel
+http://170.79.233.222:8500/play/a0gt/index.m3u8
+
+#EXTINF:-1,HBO
+http://170.79.233.222:8500/play/a0e5/index.m3u8
+
+#EXTINF:-1,HBO Family
+http://170.79.233.222:8500/play/a0ky/index.m3u8
+
+#EXTINF:-1,HBO MUNDI
+http://170.79.233.222:8500/play/a0k4/index.m3u8
+
+#EXTINF:-1,HBO POP
+http://170.79.233.222:8500/play/a0l3/index.m3u8
+
+#EXTINF:-1,HBO Plus
+http://170.79.233.222:8500/play/a0l0/index.m3u8
+
+#EXTINF:-1,HBO Signature
+http://170.79.233.222:8500/play/a0l1/index.m3u8
+
+#EXTINF:-1,HBO XTREME
+http://170.79.233.222:8500/play/a0kz/index.m3u8
+
+#EXTINF:-1,HBO2
+http://170.79.233.222:8500/play/a0e6/index.m3u8
+
+#EXTINF:-1,HTV
+http://170.79.233.222:8500/play/a0jw/index.m3u8
+
+#EXTINF:-1,History 2
+http://170.79.233.222:8500/play/a0i2/index.m3u8
+
+#EXTINF:-1,History Channel
+http://170.79.233.222:8500/play/a0g6/index.m3u8
+
+#EXTINF:-1,Hola TV
+http://170.79.233.222:8500/play/a0j8/index.m3u8
+
+#EXTINF:-1,I SAT
+http://170.79.233.222:8500/play/a0hf/index.m3u8
+
+#EXTINF:-1,ID - Investigation Discovery
+http://170.79.233.222:8500/play/a0gl/index.m3u8
+
+#EXTINF:-1,Las Estrellas
+http://170.79.233.222:8500/play/a0jv/index.m3u8
+
+#EXTINF:-1,Lifetime
+http://170.79.233.222:8500/play/a0jz/index.m3u8
+
+#EXTINF:-1,MEGA
+http://170.79.233.222:8500/play/a0l5/index.m3u8
+
+#EXTINF:-1,MTV
+http://170.79.233.222:8500/play/a0kj/index.m3u8
+
+#EXTINF:-1,Meridiano
+http://170.79.233.222:8500/play/a0h3/index.m3u8
+
+#EXTINF:-1,Movistar Deportes
+http://170.79.233.222:8500/play/a0do/index.m3u8
+
+#EXTINF:-1,Movistar Plus
+http://170.79.233.222:8500/play/a0dr/index.m3u8
+
+#EXTINF:-1,Movistar Series
+http://170.79.233.222:8500/play/a0iu/index.m3u8
+
+#EXTINF:-1,Movistar TV
+http://170.79.233.222:8500/play/a0it/index.m3u8
+
+#EXTINF:-1,Nat Geo Kids
+http://170.79.233.222:8500/play/a0j3/index.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://170.79.233.222:8500/play/a0i3/index.m3u8
+
+#EXTINF:-1,National Geographic
+http://170.79.233.222:8500/play/a0i1/index.m3u8
+
+#EXTINF:-1,Nick Jr
+http://170.79.233.222:8500/play/a0ea/index.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://170.79.233.222:8500/play/a0h8/index.m3u8
+
+#EXTINF:-1,Nuestra Tele
+http://170.79.233.222:8500/play/a0jp/index.m3u8
+
+#EXTINF:-1,Nuestra Tele
+http://170.79.233.222:8500/play/a0k6/index.m3u8
+
+#EXTINF:-1,Orbe 21
+http://170.79.233.222:8500/play/a0ge/index.m3u8
+
+#EXTINF:-1,PLUSTV
+http://170.79.233.222:8500/play/a0e0/index.m3u8
+
+#EXTINF:-1,Panamericana
+http://170.79.233.222:8500/play/a0dq/index.m3u8
+
+#EXTINF:-1,Paramount Channel
+http://170.79.233.222:8500/play/a0hg/index.m3u8
+
+#EXTINF:-1,PerÅ“ MÃ†gico
+http://170.79.233.222:8500/play/a0e1/index.m3u8
+
+#EXTINF:-1,Playboy
+http://170.79.233.222:8500/play/a0in/index.m3u8
+
+#EXTINF:-1,RAI
+http://170.79.233.222:8500/play/a0ko/index.m3u8
+
+#EXTINF:-1,RCN
+http://170.79.233.222:8500/play/a0jo/index.m3u8
+
+#EXTINF:-1,REC TV
+http://170.79.233.222:8500/play/a0gv/index.m3u8
+
+#EXTINF:-1,RED TelevisiÃ°n
+http://170.79.233.222:8500/play/a0g2/index.m3u8
+
+#EXTINF:-1,RPP
+http://170.79.233.222:8500/play/a0g0/index.m3u8
+
+#EXTINF:-1,Sextreme
+http://170.79.233.222:8500/play/a0gq/index.m3u8
+
+#EXTINF:-1,SeÃ¦al Colombia
+http://170.79.233.222:8500/play/a0jn/index.m3u8
+
+#EXTINF:-1,Sony
+http://170.79.233.222:8500/play/a0ic/index.m3u8
+
+#EXTINF:-1,Space
+http://170.79.233.222:8500/play/a0k1/index.m3u8
+
+#EXTINF:-1,Studio Universal
+http://170.79.233.222:8500/play/a0k0/index.m3u8
+
+#EXTINF:-1,SyFy
+http://170.79.233.222:8500/play/a0ie/index.m3u8
+
+#EXTINF:-1,TBS Very Funny
+http://170.79.233.222:8500/play/a0im/index.m3u8
+
+#EXTINF:-1,TCM
+http://170.79.233.222:8500/play/a0he/index.m3u8
+
+#EXTINF:-1,TLC
+http://170.79.233.222:8500/play/a0kh/index.m3u8
+
+#EXTINF:-1,TLT
+http://170.79.233.222:8500/play/a0jm/index.m3u8
+
+#EXTINF:-1,TNT
+http://170.79.233.222:8500/play/a0kv/index.m3u8
+
+#EXTINF:-1,TNT Series
+http://170.79.233.222:8500/play/a0kw/index.m3u8
+
+#EXTINF:-1,TV Diputados
+http://170.79.233.222:8500/play/a0gb/index.m3u8
+
+#EXTINF:-1,TV EPACO
+http://170.79.233.222:8500/play/a0h4/index.m3u8
+
+#EXTINF:-1,TV FAMILIA
+http://170.79.233.222:8500/play/a0gx/index.m3u8
+
+#EXTINF:-1,TV PERU
+http://170.79.233.222:8500/play/a0ds/index.m3u8
+
+#EXTINF:-1,TV+
+http://170.79.233.222:8500/play/a0d2/index.m3u8
+
+#EXTINF:-1,TVE
+http://170.79.233.222:8500/play/a0gc/index.m3u8
+
+#EXTINF:-1,TVES
+http://170.79.233.222:8500/play/a0gz/index.m3u8
+
+#EXTINF:-1,TVN
+http://170.79.233.222:8500/play/a0d3/index.m3u8
+
+#EXTINF:-1,Teleantioquia
+http://170.79.233.222:8500/play/a0kc/index.m3u8
+
+#EXTINF:-1,Telecafe
+http://170.79.233.222:8500/play/a0iz/index.m3u8
+
+#EXTINF:-1,Telecanal
+http://170.79.233.222:8500/play/a0hx/index.m3u8
+
+#EXTINF:-1,Telecaribe
+http://170.79.233.222:8500/play/a0ix/index.m3u8
+
+#EXTINF:-1,Teleislas
+http://170.79.233.222:8500/play/a0h7/index.m3u8
+
+#EXTINF:-1,Telemundo
+http://170.79.233.222:8500/play/a0dx/index.m3u8
+
+#EXTINF:-1,Telenovelas
+http://170.79.233.222:8500/play/a0g9/index.m3u8
+
+#EXTINF:-1,Telepacifico
+http://170.79.233.222:8500/play/a0kb/index.m3u8
+
+#EXTINF:-1,Telesur
+http://170.79.233.222:8500/play/a0ka/index.m3u8
+
+#EXTINF:-1,Telesur
+http://170.79.233.222:8500/play/a0kq/index.m3u8
+
+#EXTINF:-1,Teletrak
+http://170.79.233.222:8500/play/a0dd/index.m3u8
+
+#EXTINF:-1,Televen
+http://170.79.233.222:8500/play/a0iv/index.m3u8
+
+#EXTINF:-1,Tooncast
+http://170.79.233.222:8500/play/a0l2/index.m3u8
+
+#EXTINF:-1,Travel and Living Channel
+http://170.79.233.222:8500/play/a0ki/index.m3u8
+
+#EXTINF:-1,Tru TV
+http://170.79.233.222:8500/play/a0ku/index.m3u8
+
+#EXTINF:-1,TyC Sports
+http://170.79.233.222:8500/play/a0ed/index.m3u8
+
+#EXTINF:-1,Universal
+http://170.79.233.222:8500/play/a0gk/index.m3u8
+
+#EXTINF:-1,VALE TV
+http://170.79.233.222:8500/play/a0gy/index.m3u8
+
+#EXTINF:-1,Venevision Plus
+http://170.79.233.222:8500/play/a0dw/index.m3u8
+
+#EXTINF:-1,VenevisiÃ°n
+http://170.79.233.222:8500/play/a0gw/index.m3u8
+
+#EXTINF:-1,Venezolana de TelevisiÃ°n
+http://170.79.233.222:8500/play/a0h2/index.m3u8
+
+#EXTINF:-1,Venus
+http://170.79.233.222:8500/play/a0gp/index.m3u8
+
+#EXTINF:-1,Via X
+http://170.79.233.222:8500/play/a0d8/index.m3u8
+
+#EXTINF:-1,Vive
+http://170.79.233.222:8500/play/a0h0/index.m3u8
+
+#EXTINF:-1,WOBI
+http://170.79.233.222:8500/play/a0ec/index.m3u8
+
+#EXTINF:-1,Warner Channel
+http://170.79.233.222:8500/play/a0e3/index.m3u8
+
+#EXTINF:-1,Win Sports
+http://170.79.233.222:8500/play/a0jc/index.m3u8
+
+#EXTINF:-1,Zona Latina
+http://170.79.233.222:8500/play/a0d7/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
