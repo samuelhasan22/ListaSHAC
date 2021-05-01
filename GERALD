@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="Lista 01",BEIN SPORT
+http://138.0.229.88:8000/play/a02o/index.m3u8
 
+#EXTINF:-1 group-title="Lista 01",ESPN  +
+http://138.0.229.88:8000/play/a002/index.m3u8
 #EXTINF:-1  group-title="Lista 01",Ae
 https://blackghost.live/play/teleclub-426.php?c=la-ae-hd&f=.m3u8
 
