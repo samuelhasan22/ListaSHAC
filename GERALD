@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1  group-title="Lista 01",Fox premium action
+http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+#EXTINF:-1  group-title="Lista 01",Fox premium action
+http://54.39.104.194:8081/bunker/FoxAction_32/chunks.m3u8
 #EXTINF:-1 group-title="Lista 01",BEIN SPORT
 http://138.0.229.88:8000/play/a02o/index.m3u8
 
