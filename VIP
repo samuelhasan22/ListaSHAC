@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 ,16:00 Qualifiche Formula 1 - Algarve
+https://blackghost.live/sat/c78-426.php?id=live29&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,16:00 Qualifiche Formula 1 - Algarve
+https://blackghost.live/sat/c78-426.php?id=live30&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,13:30 C. Palace vs Manchester City
+https://blackghost.live/sat/c78-426.php?id=live20&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,16:00 Brighton &amp; HA vs Leeds
+https://blackghost.live/sat/c78-426.php?id=live20&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,18:30 Chelsea vs Fulham
+https://blackghost.live/sat/c78-426.php?id=live20&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,21:00 Everton vs Aston Villa
+https://blackghost.live/sat/c78-426.php?id=live20&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,14:00 Eibar vs Dep. Alaves
+https://blackghost.live/sat/c78-426.php?id=live22&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,16:15 Elche vs Atletico Madrid
+https://blackghost.live/sat/c78-426.php?id=live22&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,16:15 Elche vs Atletico Madrid
+https://blackghost.live/sat/c78-426.php?id=live23&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,18:30 Huesca vs Real Sociedad
+https://blackghost.live/sat/c78-426.php?id=live22&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,18:30 Huesca vs Real Sociedad
+https://blackghost.live/sat/c78-426.php?id=live23&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,21:00 Real Madrid vs Osasuna
+https://blackghost.live/sat/c78-426.php?id=live22&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,21:00 Real Madrid vs Osasuna
+https://blackghost.live/sat/c78-426.php?id=live23&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,20:45 Milan vs Benevento
+https://blackghost.live/sat/c78-426.php?id=live21&amp;k=blackgh00st&amp;file=.m3u8
 #EXTINF:-1  group-title="Lista 14",Fox premium action
 http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
 #EXTINF:-1  group-title="Lista 14",Fox premium action
