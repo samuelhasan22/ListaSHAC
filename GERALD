@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,16:00 Qualifiche Formula 1 - Algarve
-https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/17_.m3u8?token=70DAFUrfYlRaUMVsqn8Kmg&expires=1619971858
-#EXTINF:-1 ,16:00 Qualifiche Formula 1 - Algarve
-https://blackghost.live/sat/c78-426.php?id=live30&amp;k=blackgh00st&amp;file=.m3u8
+#EXTINF:-1 ,16:00 Qualifiche Formula 1 - staraction
+http://blackghost.live/play/ftvall-426.php?c=staraction&k=b1ack-gh0st&file=.m3u8
 #EXTINF:-1 ,13:30 C. Palace vs Manchester City
 https://blackghost.live/sat/c78-426.php?id=live20&amp;k=blackgh00st&amp;file=.m3u8
 #EXTINF:-1 ,16:00 Brighton &amp; HA vs Leeds
