@@ -1,254 +1,381 @@
-#EXTINF:-1 tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tnt-sports&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fox-sports-premium&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tudn.png" group-title="Lista 16",TUDN
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tudn&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/goltvlatino.png" group-title="Lista 16",GOLTV Latino en vivo Online
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=goltvlatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/beinlatino.png" group-title="Lista 16",Bein Sports Latino en vivo Online
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=beinlatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=vtv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=caracoltv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/golperu.png" group-title="Lista 16",GOL PERU
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=golperu&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/cdf.png" group-title="Lista 16",CDF
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=cdfpremium&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="Lista 16",FOX SPORTS ARGENTINA
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports2ar.png" group-title="Lista 16",FOX SPORTS 2 ARGENTINA
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fox-sports2ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports3ar.png" group-title="Lista 16",FOX SPORTS 3 ARGENTINA
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fox-sports3ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espnar.png" group-title="Lista 16",ESPN ARGENTINA
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=espn1ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn2ar.png" group-title="Lista 16",ESPN 2 ARGENTINA
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=espn2ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn3ar.png" group-title="Lista 16",ESPN 3 ARGENTINA
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=espn3ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports1mx.png" group-title="Lista 16",FOX SPORTS MEXICO
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports2mx.png" group-title="Lista 16",FOX SPORTS 2 MEXICO
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports3mx.png" group-title="Lista 16",FOX SPORTS 3 MEXICO
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espnmx.png" group-title="Lista 16",ESPN MEXICO
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=espn1mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn2mx.png" group-title="Lista 16",ESPN 2 MEXICO
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=espn2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn3mx.png" group-title="Lista 16",ESPN 3 MEXICO
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=espn3mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espnmasar.png" group-title="Lista 16",ESPN + ARGENTINA
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=espn+ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/directvsports.png" group-title="Lista 16",DIRECTV SPORTS
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=directv-sports&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/directvsports2.png" group-title="Lista 16",DIRECTV SPORTS 2
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=directv-sports2&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/directv-sports-plus.png" group-title="Lista 16",DIRECTV SPORTS PLUS
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tyc.png" group-title="Lista 16",TYC SPORTS
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tyc&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/golflatino.png" group-title="Lista 16",GOLF CHANNEL
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=golflatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/adrenalinatv.png" group-title="Lista 16",ADRENALINA SPORTS
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=adrenalinatv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/aym.png" group-title="Lista 16",AYM SPORTS
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=aymsports&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/univisiondeportes.png" group-title="Lista 16",UNIVISION DEPORTES
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=univisiondeportes&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/win.png" group-title="Lista 16",WIN SPORTS
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=winsports&f=.m3u8
-
-
-#EXTINF:-1  group-title="Lista 16",TELEFE 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=telefe&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",EL TRECE 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=eltrece&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AMERICA TV 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=america2&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TV PUBLICA 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tvpublica&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TN ARGENTINA 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tn&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",C5N ARGENTINA 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=c5n&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",EL NUEVE 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=canal9ar&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CANAL 26 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=canal26ar&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CRONICA TV 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=cronicatv&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CIUDAD MAGAZINE 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",A 24 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=a24&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TELEVISA DEL BAJIO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=canalbajio&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CANAL 5 TELEVISA 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=canal5televisa&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA 1 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=azteca&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA SIETE 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=azteca7&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA MAS 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=aztecamas&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA CINEMA 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=aztecacinema&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA MUNDO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=aztecamundo&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA CORAZON 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=aztecacorazon&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CANAL LAS ESTRELLAS 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=canalestrellas&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TLNOVELAS 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=telenovelas&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",MTV LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=mtv&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fox&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM ACTION 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM SERIES 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=foxseries&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM FAMILY 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=foxfamily&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM CINEMA 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=foxcinema&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM COMEDY 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=foxcomedy&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM CLASICS 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=foxclassics&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM MOVIES 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=foxmovies&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX LIFE LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=foxlife&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=hbo&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO 2 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=hbo2&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO PLUS 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=hboplus&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO FAMILY 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=hbofamily&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO SIGNATURE 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=hbosignature&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO XTREME 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=maxprime&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO MUNDI 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=maxlatino&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO POP 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=maxup&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",GOLDEN 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=golden&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",GOLDEN PLUS 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=goldenplus&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",GOLDEN EDGE 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=goldenedge&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CINEMAX 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=cinemax&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CINECANAL 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=cinecanal&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TNT LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tnt&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TNT SERIES 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tntseries&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AXN LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=axn&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AMC LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=amc&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TCM LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tcm&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",SYFY LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=syfy&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FXM 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fxm&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FX 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=fx&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",SPACE 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=space&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",COMEDY CENTRAL LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=comedycentral&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",PARAMOUNT CHANNEL LATINO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=paramountchannel&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",SONY 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=sony&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TBS 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tbs&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",STUDIO UNIVERSAL 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=studiouniversal&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",UNIVERSAL CHANNEL 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=universalchannel&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",WARNER 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=warner&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DE PELICULA 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=depelicula&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISTRITO COMEDIA 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=distritocomedia&f=.m3u8
-
-
-
-
-#EXTINF:-1  group-title="Lista 16",cartoon network en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=cartoonnetwork&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",discovery kids en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=discoverykids&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",disney junior en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=disneyjunior&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",disney xd en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=disneyxd&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",disney channel en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=disneychannel&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",nick en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=nick&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",nicktoons en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=nicktoons&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",babyfirst en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=babyfirst&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",tooncast en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=tooncast&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",boomerang en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=boomerang&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",boing en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=boing&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",clantv en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=clantv&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",paka paka en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=pakapaka&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",kidstv en vivo
-https://blackghost.live/play/wistream-bglve-601.php?cat=infantiles&ch=kidstv&f=.m3u8
-
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=history&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HISTORY 2 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=history2&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY CHANNEL 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=discoverychannel&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY TLC 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=tlc&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY CIVILIZATION 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=discoverycivilization&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY TURBO 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=discoveryturbo&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY THEATER 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=discoverytheater&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY SCIENCIE 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=discoverysciencie&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",INVESTIGACION DISCOVERY 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY H&H 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=discoveryhh&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY WORL 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=discoveryworl&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",NATIONAL GEOGRAPHIC 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=nationalgeo&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",NAT GEO WILL 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=nationalwill&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",A&E 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=ae&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",ANIMAL PLANET 
-https://blackghost.live/play/wistream-bglve-601.php?cat=latinos&ch=animalplanet&f=.m3u8
-
-
+#EXTM3U
+#EXTINF:-1, TVE 1 en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/tve1/index.m3u8
+#EXTINF:-1, TVE 2 en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/tve2/index.m3u8
+#EXTINF:-1, ANTENA 3 en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/antena3/index.m3u8
+#EXTINF:-1, LA CUATRO en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/lacuatro/index.m3u8
+#EXTINF:-1, TELECINCO en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/telecinco/index.m3u8
+#EXTINF:-1, LA SEXTA en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/lasexta/index.m3u8
+#EXTINF:-1, MEGA en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/mega/index.m3u8
+#EXTINF:-1, FDF en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/fdf/index.m3u8
+#EXTINF:-1, TELEMADRID en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/telemadrid/index.m3u8
+#EXTINF:-1,#0 en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/canal-0-plus/index.m3u8
+#EXTINF:-1, CANAL ESTRENOS en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/movistar-estrenos/index.m3u8
+#EXTINF:-1, CANAL ACCION en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/movistar-accion/index.m3u8
+#EXTINF:-1, CANAL DRAMA en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/movistar-drama/index.m3u8
+#EXTINF:-1, CANAL COMEDIA en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/movistar-comedia/index.m3u8
+#EXTINF:-1, DCINE Ñ en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/dcineespanol/index.m3u8
+#EXTINF:-1, CANAL SERIES en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/movistar-series/index.m3u8
+#EXTINF:-1, CANAL TOROS en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/toros/index.m3u8
+#EXTINF:-1, FOX en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/fox/index.m3u8
+#EXTINF:-1, AXN en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/axn/index.m3u8
+#EXTINF:-1, TNT en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/tnt/index.m3u8
+#EXTINF:-1, AMC en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/amc/index.m3u8
+#EXTINF:-1, SYFY en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/syfy/index.m3u8
+#EXTINF:-1, DARK en Directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/dark/index.m3u8
+#EXTINF:-1, VTV URUGUAY en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/vtv/index.m3u8
+#EXTINF:-1, CARACOL TV en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/caracoltv/index.m3u8
+#EXTINF:-1, TELEFE en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/telefe/index.m3u8
+#EXTINF:-1, EL TRECE en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/eltrece/index.m3u8
+#EXTINF:-1, AMERICA TV en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/america2/index.m3u8
+#EXTINF:-1, TV PUBLICA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/tvpublica/index.m3u8
+#EXTINF:-1, TN ARGENTINA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/tn/index.m3u8
+#EXTINF:-1, C5N ARGENTINA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/c5n/index.m3u8
+#EXTINF:-1, EL NUEVE en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/canal9ar/index.m3u8
+#EXTINF:-1, CRONICA TV en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/cronicatv/index.m3u8
+#EXTINF:-1, TELEVISA DEL BAJIO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/canalbajio/index.m3u8
+#EXTINF:-1, CANAL 5 TELEVISA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/canal5televisa/index.m3u8
+#EXTINF:-1, AZTECA 1 en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/azteca/index.m3u8
+#EXTINF:-1, AZTECA SIETE en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/azteca7/index.m3u8
+#EXTINF:-1, AZTECA MAS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/aztecamas/index.m3u8
+#EXTINF:-1, AZTECA CINEMA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/aztecacinema/index.m3u8
+#EXTINF:-1, AZTECA MUNDO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/aztecamundo/index.m3u8
+#EXTINF:-1, MTV LATINO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/mtv/index.m3u8
+#EXTINF:-1, FOX LATINO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fox/index.m3u8
+#EXTINF:-1, FOX PREMIUM ACTION en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/foxaction/index.m3u8
+#EXTINF:-1, FOX PREMIUM FAMILY en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/foxfamily/index.m3u8
+#EXTINF:-1, FOX PREMIUM CINEMA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/foxcinema/index.m3u8
+#EXTINF:-1, FOX LIFE LATINO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/foxlife/index.m3u8
+#EXTINF:-1, HBO LATINO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/hbo/index.m3u8
+#EXTINF:-1, HBO 2 en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/hbo2/index.m3u8
+#EXTINF:-1, HBO PLUS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/hboplus/index.m3u8
+#EXTINF:-1, HBO FAMILY en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/hbofamily/index.m3u8
+#EXTINF:-1, HBO SIGNATURE en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/hbosignature/index.m3u8
+#EXTINF:-1, HBO XTREME en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/maxprime/index.m3u8
+#EXTINF:-1, HBO MUNDI en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/maxlatino/index.m3u8
+#EXTINF:-1, HBO POP en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/maxup/index.m3u8
+#EXTINF:-1, GOLDEN PLUS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/goldenplus/index.m3u8
+#EXTINF:-1, GOLDEN EDGE en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/goldenedge/index.m3u8
+#EXTINF:-1, CINECANAL en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/cinecanal/index.m3u8
+#EXTINF:-1, TNT SERIES en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/tntseries/index.m3u8
+#EXTINF:-1, AXN LATINO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/axn/index.m3u8
+#EXTINF:-1, AMC LATINO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/amc/index.m3u8
+#EXTINF:-1, TCM LATINO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/tcm/index.m3u8
+#EXTINF:-1, SYFY LATINO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/syfy/index.m3u8
+#EXTINF:-1, FXM en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fxm/index.m3u8
+#EXTINF:-1, FX en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fx/index.m3u8
+#EXTINF:-1, SPACE en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/space/index.m3u8
+#EXTINF:-1, PARAMOUNT CHANNEL LATINO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/paramountchannel/index.m3u8
+#EXTINF:-1, SONY en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/sony/index.m3u8
+#EXTINF:-1, TBS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/tbs/index.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/studiouniversal/index.m3u8
+#EXTINF:-1, UNIVERSAL CHANNEL en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/universalchannel/index.m3u8
+#EXTINF:-1, WARNER en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/warner/index.m3u8
+#EXTINF:-1, DE PELICULA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/depelicula/index.m3u8
+#EXTINF:-1, DISTRITO COMEDIA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/distritocomedia/index.m3u8
+#EXTINF:-1, LALIGA en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/movistar-laliga/live.php/index.m3u8
+#EXTINF:-1, LIGA CAMPEONES en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/movistar-ligacampeones/live.php/index.m3u8
+#EXTINF:-1, MOVISTAR DEPORTES en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/movistar-deportes/index.m3u8
+#EXTINF:-1, GOLTV en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/goltv/index.m3u8
+#EXTINF:-1, MOTO GP en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/motogp/index.m3u8
+#EXTINF:-1, FORMULA 1 en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/formula1/index.m3u8
+#EXTINF:-1, EUROSPORT 1 en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/eurosport1/index.m3u8
+#EXTINF:-1, EUROSPORT 2 en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/eurosport2/index.m3u8
+#EXTINF:-1, BARCA TV en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/barcatv/index.m3u8
+#EXTINF:-1, REAL MADRID TV en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/realmadridtv/index.m3u8
+#EXTINF:-1, TELEDEPORTE en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/deportes/teledeporte/index.m3u8
+#EXTINF:-1, DIRECTV SPORTS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/directv-sports/index.m3u8
+#EXTINF:-1, DIRECTV SPORTS 2 en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/directv-sports2/index.m3u8
+#EXTINF:-1, TNT SPORTS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/tnt-sports/index.m3u8
+#EXTINF:-1, FOX SPORTS PREMIUM en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fox-sports-premium/index.m3u8
+#EXTINF:-1, FOX SPORTS ARGENTINA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fox-sports1ar/index.m3u8
+#EXTINF:-1, FOX SPORTS 2 ARGENTINA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fox-sports2ar/index.m3u8
+#EXTINF:-1, FOX SPORTS 3 ARGENTINA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fox-sports3ar/index.m3u8
+#EXTINF:-1, FOX SPORTS MEXICO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fox-sports1mx/index.m3u8
+#EXTINF:-1, FOX SPORTS 2 MEXICO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fox-sports2mx/index.m3u8
+#EXTINF:-1, FOX SPORTS 3 MEXICO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/fox-sports3mx/index.m3u8
+#EXTINF:-1, ESPN ARGENTINA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/espn1ar/index.m3u8
+#EXTINF:-1, ESPN 2 ARGENTINA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/espn2ar/index.m3u8
+#EXTINF:-1, ESPN 3 ARGENTINA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/espn3ar/index.m3u8
+#EXTINF:-1, ESPN MEXICO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/espn1mx/index.m3u8
+#EXTINF:-1, ESPN 2 MEXICO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/espn2mx/index.m3u8
+#EXTINF:-1, ESPN 3 MEXICO en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/espn3mx/index.m3u8
+#EXTINF:-1, ESPN + ARGENTINA en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/espn+ar/index.m3u8
+#EXTINF:-1, TYC SPORTS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/tyc/index.m3u8
+#EXTINF:-1, GOLTV en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/goltvlatino/index.m3u8
+#EXTINF:-1, BEIN Ñ en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/beinlatino/index.m3u8
+#EXTINF:-1, AYM SPORTS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/aymsports/index.m3u8
+#EXTINF:-1, UNIVISION DEPORTES en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/univisiondeportes/index.m3u8
+#EXTINF:-1, GOL PERU en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/golperu/index.m3u8
+#EXTINF:-1, WIN SPORTS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/winsports/index.m3u8
+#EXTINF:-1, CDF en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/cdfpremium/index.m3u8
+#EXTINF:-1, ADRENALINA SPORTS en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/adrenalinatv/index.m3u8
+#EXTINF:-1, GOLF CHANNEL en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/golf/index.m3u8
+#EXTINF:-1, TUDN en Vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/tudn/index.m3u8
+#EXTINF:-1, cartoon network en vivo
+http://ps3u.ga/m3u/Lista01/infantiles/cartoonnetwork/index.m3u8
+#EXTINF:-1, disney junior en vivo
+http://ps3u.ga/m3u/Lista01/infantiles/disneyjunior/index.m3u8
+#EXTINF:-1, disney xd en vivo
+http://ps3u.ga/m3u/Lista01/infantiles/disneyxd/index.m3u8
+#EXTINF:-1, disney channel en vivo
+http://ps3u.ga/m3u/Lista01/infantiles/disneychannel/index.m3u8
+#EXTINF:-1, nick en vivo
+http://ps3u.ga/m3u/Lista01/infantiles/nick/index.m3u8
+#EXTINF:-1, nicktoons en vivo
+http://ps3u.ga/m3u/Lista01/infantiles/nicktoons/index.m3u8
+#EXTINF:-1, babyfirst en vivo
+http://ps3u.ga/m3u/Lista01/infantiles/babyfirst/index.m3u8
+#EXTINF:-1, boomerang en vivo
+http://ps3u.ga/m3u/Lista01/infantiles/boomerang/index.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/discovery-channel/index.m3u8
+#EXTINF:-1, DISCOVERY MAX en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/discovery-max/index.m3u8
+#EXTINF:-1, HISTORIA en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/history/index.m3u8
+#EXTINF:-1, CAZA Y PESCA en directo Online Gratis
+http://ps3u.ga/m3u/Lista01/espana/caza-pesca/index.m3u8
+#EXTINF:-1, CAZAVISION en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/cazavision/index.m3u8
+#EXTINF:-1, HISTORY en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/history/index.m3u8
+#EXTINF:-1, HISTORY 2 en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/history2/index.m3u8
+#EXTINF:-1, DISCOVERY TLC en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/tlc/index.m3u8
+#EXTINF:-1, DISCOVERY HGTV en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/hgtv/index.m3u8
+#EXTINF:-1, DISCOVERY TURBO en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/discoveryturbo/index.m3u8
+#EXTINF:-1, DISCOVERY THEATER en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/discoverytheater/index.m3u8
+#EXTINF:-1, DISCOVERY SCIENCIE en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/discoverysciencie/index.m3u8
+#EXTINF:-1, INVESTIGACION DISCOVERY en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/discoveryinvestigacion/index.m3u8
+#EXTINF:-1, DISCOVERY H&H en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/discoveryhh/index.m3u8
+#EXTINF:-1, DISCOVERY WORL en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/discoveryworl/index.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/nationalgeo/index.m3u8
+#EXTINF:-1, NAT GEO WILL en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/nationalwill/index.m3u8
+#EXTINF:-1, A&E en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/ae/index.m3u8
+#EXTINF:-1, ANIMAL PLANET en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/latinos/animalplanet/index.m3u8
+#EXTINF:-1, VENUS en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/venus/index.m3u8
+#EXTINF:-1, PLAYBOY en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/playboy/index.m3u8
+#EXTINF:-1, HUSTLER HD en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/hustler/index.m3u8
+#EXTINF:-1, REDLIGHT en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/redlight/index.m3u8
+#EXTINF:-1, HOT SEX en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/hot/index.m3u8
+#EXTINF:-1, ERO X en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/erox/index.m3u8
+#EXTINF:-1, TEENS en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/teens/index.m3u8
+#EXTINF:-1, VIVID en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/vivid/index.m3u8
+#EXTINF:-1, DREAM SEX en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/dreamsex/index.m3u8
+#EXTINF:-1, DORCEL XXX en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/dorcel/index.m3u8
+#EXTINF:-1, BRAZZERS en vivo Online Gratis
+http://ps3u.ga/m3u/Lista01/adultos/brazzers/index.m3u8
+#EXTINF:-1,CANAL 5 MX
+http://ps3u.ga/m3u/Lista02/elcinco/index.m3u8
+#EXTINF:-1,Distrito Comedia
+http://ps3u.ga/m3u/Lista02/distrito/index.m3u8
+#EXTINF:-1,CNN ES
+http://ps3u.ga/m3u/Lista02/cnnes/index.m3u8
+#EXTINF:-1,GALAVISION
+http://ps3u.ga/m3u/Lista02/galavision/index.m3u8
+#EXTINF:-1,TELEMUNDO
+http://ps3u.ga/m3u/Lista02/telemundo/index.m3u8
+#EXTINF:-1,UNIMAS
+http://ps3u.ga/m3u/Lista02/unimas/index.m3u8
+#EXTINF:-1,UNIVISION
+http://ps3u.ga/m3u/Lista02/univisionhd/index.m3u8
+#EXTINF:-1,AFIZZIONADOS
+http://ps3u.ga/m3u/Lista02/afizzionados/index.m3u8
+#EXTINF:-1,AYM SPORTS
+http://ps3u.ga/m3u/Lista02/aym/index.m3u8
+#EXTINF:-1,FOX Sports 2 MX
+http://ps3u.ga/m3u/Lista02/foxsport2mx/index.m3u8
+#EXTINF:-1,TVCDEP
+http://ps3u.ga/m3u/Lista02/tvcdep/index.m3u8
+#EXTINF:-1,Telemundo INT
+http://ps3u.ga/m3u/Lista02/telemundoint/index.m3u8
+#EXTINF:-1,DIRECTV 2
+http://ps3u.ga/m3u/Lista02/directv2/index.m3u8
+#EXTINF:-1,Comedy Central
+http://ps3u.ga/m3u/Lista02/comedy/index.m3u8
+#EXTINF:-1,FX
+http://ps3u.ga/m3u/Lista02/fx/index.m3u8
+#EXTINF:-1,Investigation D
+http://ps3u.ga/m3u/Lista02/id/index.m3u8
+#EXTINF:-1,LIFETIME
+http://ps3u.ga/m3u/Lista02/lifetime/index.m3u8
+#EXTINF:-1,PASIONES
+http://ps3u.ga/m3u/Lista02/pasiones/index.m3u8
+#EXTINF:-1,Warner TV
+http://ps3u.ga/m3u/Lista02/warner/index.m3u8
+#EXTINF:-1,D PELICULA
+http://ps3u.ga/m3u/Lista02/dpelicula/index.m3u8
+#EXTINF:-1,HBO Plus
+http://ps3u.ga/m3u/Lista02/hboplus/index.m3u8
+#EXTINF:-1,HBO Family
+http://ps3u.ga/m3u/Lista02/hbofamily/index.m3u8
+#EXTINF:-1,HBO POP
+http://ps3u.ga/m3u/Lista02/hbopop/index.m3u8
+#EXTINF:-1,HBO Signature
+http://ps3u.ga/m3u/Lista02/hbosignature/index.m3u8
+#EXTINF:-1,HBO Xtreme
+http://ps3u.ga/m3u/Lista02/hboxtreme/index.m3u8
+#EXTINF:-1,ISAT
+http://ps3u.ga/m3u/Lista02/isat/index.m3u8
+#EXTINF:-1,MORBIDO
+http://ps3u.ga/m3u/Lista02/morbido/index.m3u8
+#EXTINF:-1,SPACE
+http://ps3u.ga/m3u/Lista02/space/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://ps3u.ga/m3u/Lista02/starch/index.m3u8
+#EXTINF:-1,TNT
+http://ps3u.ga/m3u/Lista02/tnt/index.m3u8
+#EXTINF:-1,ANIMAL Planet
+http://ps3u.ga/m3u/Lista02/animalp/index.m3u8
+#EXTINF:-1,D THEATER
+http://ps3u.ga/m3u/Lista02/dtheater/index.m3u8
+#EXTINF:-1,HISTORY
+http://ps3u.ga/m3u/Lista02/history/index.m3u8
+#EXTINF:-1,EUFORIA
+http://ps3u.ga/m3u/Lista02/euforia/index.m3u8
+#EXTINF:-1,MTV
+http://ps3u.ga/m3u/Lista02/mtv/index.m3u8
+#EXTINF:-1,BABY TV
+http://ps3u.ga/m3u/Lista02/babytv/index.m3u8
+#EXTINF:-1,NICK JR
+http://ps3u.ga/m3u/Lista02/nickjr/index.m3u8
+#EXTINF:-1,Tooncast
+http://ps3u.ga/m3u/Lista02/tooncast/index.m3u8
+#EXTINF:-1,DESPUES DE TI
+http://ps3u.ga/m3u/Lista02Peliculas/despuesdeti/index.mp4
+#EXTINF:-1,MONSTER HUNTER
+http://ps3u.ga/m3u/Lista02Peliculas/monsterhunter/index.mp4
